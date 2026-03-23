@@ -1,6 +1,6 @@
-<h1 align="center">🌙 Himakshi Chadalavada</h1>
+<h1 align="left"> Himakshi Chadalavada</h1>
 
-<p align="center">
+<p align="left">
   💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🚀 Tech Explorer
 </p>
 
@@ -14,7 +14,7 @@ I love building real-world applications using **Web Development + AI** and conti
 
 ## 🌐 Connect with Me  
 
-<p align="center">
+<p align="left">
   <a href="mailto:chhimakshi@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
@@ -31,7 +31,7 @@ I love building real-world applications using **Web Development + AI** and conti
 ## 💻 Tech Stack  
 
 ### 🌍 Web Development  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
@@ -45,7 +45,7 @@ I love building real-world applications using **Web Development + AI** and conti
 ---
 
 ### 🧠 Programming & AI/ML  
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c"/>
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
@@ -72,25 +72,11 @@ I love building real-world applications using **Web Development + AI** and conti
 
 ---
 
-## 📂 Projects  
 
-### 🤖 AI Document & Video Analyzer  
-- AI-based summarization using BART & MiniLM  
-
-### 🎮 2D Platformer Game  
-- Built using Python (Pygame)  
-
-### 🌱 EcoCart Platform  
-- MERN stack donation system  
-
-### 🖥️ Task Manager App  
-- Java Swing app for process monitoring  
-
----
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=himakshi-08&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himakshi-08&theme=tokyonight" height="160"/>
 </p>
@@ -99,7 +85,7 @@ I love building real-world applications using **Web Development + AI** and conti
 
 ## 📈 Top Languages  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himakshi-08&layout=compact&theme=tokyonight"/>
 </p>
 
