@@ -78,7 +78,7 @@ I love building real-world applications using **Web Development + AI** and conti
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=himakshi-08&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himakshi-08&theme=tokyonight" height="160"/>
+ 
 </p>
 
 ---
