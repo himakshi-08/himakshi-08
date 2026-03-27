@@ -73,16 +73,6 @@ I love building real-world applications using **Web Development + AI** and conti
 ---
 
 
-
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=himakshi-08&show_icons=true&theme=tokyonight" height="160"/>
- 
-</p>
-
----
-
 ## 📈 Top Languages  
 
 <p align="left">
