@@ -6,7 +6,7 @@
 
 ---
 
-## 💫 About Me  
+##  About Me  
 I am an aspiring **Full Stack Developer & AI/ML enthusiast** with a strong academic background (CGPA: 9.41).  
 I love building real-world applications using **Web Development + AI** and continuously improving my skills.
 
@@ -30,7 +30,7 @@ I love building real-world applications using **Web Development + AI** and conti
 
 ## 💻 Tech Stack  
 
-### 🌍 Web Development  
+### Web Development  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
@@ -44,7 +44,7 @@ I love building real-world applications using **Web Development + AI** and conti
 
 ---
 
-### 🧠 Programming & AI/ML  
+###  Programming & AI/ML  
 <p align="left">
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c"/>
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
@@ -58,18 +58,5 @@ I love building real-world applications using **Web Development + AI** and conti
 
 ---
 
-## 💼 Experience  
-
-### 🤖 AI/ML Intern — HCLTech  
-- Built AI summarization system using **BART & Sentence Transformers**  
-- Integrated **Whisper + yt-dlp** for video transcription  
-- Implemented document extraction using PDF tools  
-
-### 🌐 Full Stack Intern — Edunet Foundation  
-- Developed **EcoCart (MERN donation platform)**  
-- Built REST APIs and authentication system  
-- Added real-time tracking features  
-
----
 
 
