@@ -7,7 +7,7 @@
 ---
 
 ##  About Me  
-I am an aspiring **Full Stack Developer & AI/ML enthusiast** with a strong academic background (CGPA: 9.41).  
+I am an aspiring **Full Stack Developer & AI/ML enthusiast**.  
 I love building real-world applications using **Web Development + AI** and continuously improving my skills.
 
 ---
