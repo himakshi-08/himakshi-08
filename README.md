@@ -1,7 +1,7 @@
 <h1 align="left"> Himakshi Chadalavada</h1>
 
 <p align="left">
-  💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🚀 Tech Explorer
+   Full Stack Developer |  AI/ML Enthusiast |  Tech Explorer
 </p>
 
 ---
