@@ -18,7 +18,7 @@ I love building real-world applications using **Web Development + AI** and conti
   <a href="mailto:chhimakshi@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/himakshi-chadal">
+  <a href="https://www.linkedin.com/in/himakshi-chadalavada/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/himakshi-08">
