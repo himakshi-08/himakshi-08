@@ -44,7 +44,7 @@ I love building real-world applications using **Web Development + AI** and conti
 
 ---
 
-###  Programming & AI/ML  
+### 👩‍💻 Programming & AI/ML  
 <p align="left">
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c"/>
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus"/>
